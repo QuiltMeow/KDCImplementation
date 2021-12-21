@@ -1,0 +1,3 @@
+本專案為 KDC 伺服器插件
+服務端本體為棉被家族服務端框架
+相關專案請參見 : https://social.quilt.idv.tw/gg/Xw1o8

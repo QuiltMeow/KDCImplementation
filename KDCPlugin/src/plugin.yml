@@ -1,0 +1,6 @@
+name: KDC Plugin
+main: ew.sr.x1c.quilt.meow.kdc.plugin.PluginMain
+version: 0.02
+author: ew.sr.x1c.quilt.meow
+website: http://www.quilt.idv.tw/
+description: KDC 插件
